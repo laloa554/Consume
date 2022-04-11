@@ -1,0 +1,6 @@
+server:
+  port: 8075
+  
+IpAPI:
+  host: http://api.ipapi.com
+  uri: "?access_key=e92bf3efd603fcc6609aaf2d5a924769"
